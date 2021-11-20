@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec1bcfba7e21778674efa077855abd46",
+    "revision": "4a8acb30ea512fc889aa69536d2550c3",
     "url": "/Mr-andrei.github.io/DZFromIgnat/index.html"
   },
   {
-    "revision": "5af842a08d20fdff9032",
+    "revision": "84e6aff6b72b8af78bf8",
     "url": "/Mr-andrei.github.io/DZFromIgnat/static/css/main.76ba1a38.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mr-andrei.github.io/DZFromIgnat/static/js/2.97f4e85d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5af842a08d20fdff9032",
-    "url": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.eaff1905.chunk.js"
+    "revision": "84e6aff6b72b8af78bf8",
+    "url": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.73bfe127.chunk.js"
   },
   {
     "revision": "e756288531fbd4ffa259",

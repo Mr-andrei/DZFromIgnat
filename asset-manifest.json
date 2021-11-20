@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mr-andrei.github.io/DZFromIgnat/static/css/main.76ba1a38.chunk.css",
-    "main.js": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.eaff1905.chunk.js",
-    "main.js.map": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.eaff1905.chunk.js.map",
+    "main.js": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.73bfe127.chunk.js",
+    "main.js.map": "/Mr-andrei.github.io/DZFromIgnat/static/js/main.73bfe127.chunk.js.map",
     "runtime-main.js": "/Mr-andrei.github.io/DZFromIgnat/static/js/runtime-main.68f59161.js",
     "runtime-main.js.map": "/Mr-andrei.github.io/DZFromIgnat/static/js/runtime-main.68f59161.js.map",
     "static/js/2.97f4e85d.chunk.js": "/Mr-andrei.github.io/DZFromIgnat/static/js/2.97f4e85d.chunk.js",
     "static/js/2.97f4e85d.chunk.js.map": "/Mr-andrei.github.io/DZFromIgnat/static/js/2.97f4e85d.chunk.js.map",
     "index.html": "/Mr-andrei.github.io/DZFromIgnat/index.html",
-    "precache-manifest.2ea691bcc2b21050129d7f82c9a0d75b.js": "/Mr-andrei.github.io/DZFromIgnat/precache-manifest.2ea691bcc2b21050129d7f82c9a0d75b.js",
+    "precache-manifest.43793623027223559960f3ec12a84871.js": "/Mr-andrei.github.io/DZFromIgnat/precache-manifest.43793623027223559960f3ec12a84871.js",
     "service-worker.js": "/Mr-andrei.github.io/DZFromIgnat/service-worker.js",
     "static/css/main.76ba1a38.chunk.css.map": "/Mr-andrei.github.io/DZFromIgnat/static/css/main.76ba1a38.chunk.css.map",
     "static/js/2.97f4e85d.chunk.js.LICENSE.txt": "/Mr-andrei.github.io/DZFromIgnat/static/js/2.97f4e85d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.68f59161.js",
     "static/js/2.97f4e85d.chunk.js",
     "static/css/main.76ba1a38.chunk.css",
-    "static/js/main.eaff1905.chunk.js"
+    "static/js/main.73bfe127.chunk.js"
   ]
 }
