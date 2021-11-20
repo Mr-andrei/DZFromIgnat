@@ -1,0 +1,26 @@
+
+
+
+
+.main_block{
+    width: 600px;
+    margin: 0 auto;
+
+}
+
+.text_block{
+    width: 200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.text_input{
+    margin-left: -34px;
+    margin-bottom: 20px;
+}
+
+.button_block{
+    position: absolute;
+    left: 42px;
+
+}

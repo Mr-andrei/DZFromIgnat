@@ -1,0 +1,12 @@
+
+
+
+.text{
+   font-family: Gabriola;
+    font-size: 30px;
+}
+
+.text:before{
+    content: "\270E";
+    margin-right: 12px;
+}

@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.message {
+}
+
+.container {
+    display: flex;
+    position: relative;
+
+}
+
+.massege_window {
+    background-color: black;
+    width: 300px;
+    height: 70px;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding-left: 17px;
+
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.massege_window:before {
+    content: "";
+    position: absolute;
+    z-index: 2;
+    bottom: -2px;
+    left: -7px;
+    height: 20px;
+    border-left: 20px solid black;
+    border-bottom-right-radius: 16px 14px;
+    -webkit-transform: translate(0, -2px);
+
+}
+
+.massege_window:after {
+    content: "";
+    position: absolute;
+    z-index: 3;
+    bottom: -2px;
+    left: 4px;
+    width: 26px;
+    height: 20px;
+    background: white;
+    border-bottom-right-radius: 10px;
+    -webkit-transform: translate(-30px, -2px);
+}
+
+
+.user_name {
+    color: mediumpurple;
+    font-size: 19px;
+    font-family: Dialog;
+}
+
+.massege_text {
+    color: antiquewhite;
+    font-size: 19px;
+    font-family: Dialog;
+}
+
+.massege_time {
+    font-size: 16px;
+    color: greenyellow;
+    position: absolute;
+    left: 250px;
+    top: 46px;
+}
+
+.user_icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px 0 10px 10px;
+}
+
+.user_icon img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
