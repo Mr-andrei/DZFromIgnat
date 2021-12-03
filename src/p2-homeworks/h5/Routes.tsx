@@ -7,9 +7,9 @@ import {JunPlus} from "./pages/JunPlus";
 
 export const PATH = {
     PRE_JUNIOR: '/pre-junior',
-    Error404: './pages/Error404',
-    JUNIOR: "./pages/Junior",
-    JunPlus: "./pages/JunPlus"
+    Error404: '/Error404',
+    JUNIOR: "/Junior",
+    JunPlus: "/JunPlus"
     // add paths
 }
 
