@@ -4,7 +4,7 @@
 
 .main_block{
     width: 600px;
-    margin: 0 auto;
+    margin: 100px auto;
 
 }
 
@@ -20,7 +20,9 @@
 }
 
 .button_block{
-    position: absolute;
-    left: 42px;
+text-align: center;
+
+
+
 
 }

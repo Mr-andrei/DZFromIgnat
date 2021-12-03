@@ -51,7 +51,7 @@ const SuperEditableSpan: React.FC<SuperEditableSpanType> = (
     const spanClassName = `${'text'} ${className}`
 
     return (
-        <div>
+        <div className={"main_span_block"}>
             {editMode
                 ? (
                     <SuperInputText

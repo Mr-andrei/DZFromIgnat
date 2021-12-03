@@ -34,7 +34,7 @@ function HW6() {
             <SuperButton onClick={restore}>restore</SuperButton>
                 </div>
             </div>
-            <hr/>
+
             {/*для личного творчества, могу проверить*/}
             {/*<AlternativeSuperEditableSpan/>*/}
             <hr/>
