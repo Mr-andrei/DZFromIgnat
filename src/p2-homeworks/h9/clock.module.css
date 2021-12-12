@@ -1,0 +1,33 @@
+
+
+.main_conte{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.clock_container {
+
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    padding-top: 90px;
+
+}
+
+.time {
+    height: 10px;
+    color: white;
+}
+.clockOfDate{
+    color: white;
+}
+.button_block{
+    display: flex;
+    justify-content: space-around;
+}
+
