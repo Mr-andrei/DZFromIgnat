@@ -1,5 +1,6 @@
 .dark {
     background: dimgrey;
+    height: 200px;
 }
 
 .dark-text {
@@ -8,6 +9,8 @@
 
 .red {
     background: lightcoral;
+    height: 200px;
+
 }
 
 .red-text {
@@ -16,6 +19,7 @@
 
 .some {
     background: lightgreen;
+    height: 200px;
 }
 
 .some-text {
