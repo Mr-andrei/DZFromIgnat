@@ -3,7 +3,7 @@ import {UserType} from "../HW8";
 export const homeWorkReducer = (state: Array<UserType>, action: ActionTypeSort): Array<UserType> => { // need to fix any
     switch (action.type) {
         case 'sort': {
-            let copyState = [...state]
+            let copyState = [...state].sort((a,b)=> a.name > b.name ? 1 : -1)
             return copyState.sort((a, b) => a.name.localeCompare(b.name))
         }
         case 'down':{
